@@ -4,7 +4,7 @@ import lxml
 import requests
 from urllib import parse
 
-bot = telebot.TeleBot(token='1657968709:AAGJlBBvi7T9dTIJnryUy2Vopnncm52vTQs')
+bot = telebot.TeleBot(token='ваш токен')
 import random
 from telebot import types
 
